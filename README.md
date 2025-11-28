@@ -1,12 +1,12 @@
 # Run RL Swarm (Testnet) Node
 
-A concise, organized guide to setting up an RL Swarm node and the web UI dashboard for GensynAI's Testnet.
+A Simple  guide to setting up an RL Swarm node and the web UI dashboard for GensynAI's Testnet.
 
 ---
 
 ## Overview
 
-RL Swarm is an open-source framework from GensynAI for building reinforcement learning training swarms. This guide helps you set up a Testnet node and monitor it via the web UI. It covers hardware recommendations, environment setup (Windows, Cloud GPU, VPS), dependency installation, running the node (CLI or Docker), login, monitoring, backups, and troubleshooting.
+RL Swarm is an open source framework from GensynAI for building reinforcement learning training swarms. This guide helps you set up a Testnet node and monitor it via the web UI. It covers hardware recommendations, environment setup (Windows, Cloud GPU, VPS), dependency installation, running the node (CLI or Docker), login, monitoring, backups, and troubleshooting.
 
 ---
 
